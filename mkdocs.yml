@@ -1,0 +1,16 @@
+site_name: Cycleus
+
+nav: 
+  - Home: README.md
+  - Documentao:
+    - "Projeto": docs/projeto.md
+    - "Guia de Estilo e Identidade visual": docs/id_visual.md
+    - "Protótipo": docs/prototipo.md
+    - "Desenvolvimento": docs/desenvolvimento.md
+    - "Produto": docs/produto.md
+
+theme: readthedocs
+highlightjs: true
+collapse_navigation: true
+locale: pt_BR
+logo: img/logo.png
