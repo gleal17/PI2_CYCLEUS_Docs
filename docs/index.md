@@ -16,13 +16,13 @@ O CYCLEUS é um bicicletário eletrônico desenvolvido para a comunidade acadêm
 
 ##### Faça o seu cadastro
 
-- Crie sua conta no CYCLEUS com o seu email institucional. ####@unb.br || ####@aluno.unb.br
+- Crie sua conta no CYCLEUS com o seu email institucional. ####@unb.br | ####@aluno.unb.br
 
 ![Tela login](./img/login.png)
 
 ##### Faça o login no sistema
 
-- Após se registrar vá para a tela de login e insirua suas credenciais
+- Após se registrar vá para a tela de login e insira suas credenciais
 
 ![Tela estações](./img/main_station.png)
 
@@ -34,7 +34,7 @@ O CYCLEUS é um bicicletário eletrônico desenvolvido para a comunidade acadêm
 
 ##### Selecione a vaga desejada e leia o qrcode
 
-- Na tela da estação você deve selecionar a vaga que será utilizda e clickar no botão de ler o QR Code liberando a câmera para ler o QR Code q se encontra no gabinete da estação.
+- Na tela da estação você deve selecionar a vaga que será utilizada e clicar no botão de ler o QR Code liberando a câmera para ler o QR Code que se encontra no gabinete da estação.
 
 ![Tela estações](./img/unlock.png)
 
